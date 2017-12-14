@@ -1,0 +1,10 @@
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\Directory\DirectoryTsm\bin\Debug\DirectoryTsm.exe.config
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\Directory\DirectoryTsm\bin\Debug\DirectoryTsm.exe
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\Directory\DirectoryTsm\bin\Debug\DirectoryTsm.pdb
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\Directory\DirectoryTsm\obj\Debug\DirectoryTsm.csprojResolveAssemblyReference.cache
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\Directory\DirectoryTsm\obj\Debug\DirectoryTsm.Properties.Resources.resources
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\Directory\DirectoryTsm\obj\Debug\DirectoryTsm.csproj.GenerateResource.Cache
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\Directory\DirectoryTsm\obj\Debug\DirectoryTsm.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\Directory\DirectoryTsm\obj\Debug\DirectoryTsm.exe
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\Directory\DirectoryTsm\obj\Debug\DirectoryTsm.pdb
+C:\Users\jonas\Documents\Visual Studio 2017\Projects\Directory\DirectoryTsm\obj\Debug\DirectoryTsm.DirectoryTsm.resources
